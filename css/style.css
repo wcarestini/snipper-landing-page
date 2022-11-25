@@ -53,8 +53,8 @@ span {
 
 section#principal {
     background: url(../assets/Background.png);
-    background-repeat: round;
-    background-size: 150%;
+    background-position-x: center;
+    background-position-y: unset;
 }
 
 section#principal h1 {
@@ -205,6 +205,8 @@ footer {
     section#principal {
         min-height: 100vh;
         justify-content: space-between;
+        background-repeat: round;
+        background-size: 150%;
     }
 
     section#principal h1 {
