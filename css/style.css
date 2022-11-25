@@ -205,7 +205,6 @@ footer {
     section#principal {
         min-height: 100vh;
         justify-content: space-between;
-        background-repeat: round;
         background-size: 150%;
     }
 
