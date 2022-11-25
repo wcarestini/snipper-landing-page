@@ -53,8 +53,8 @@ span {
 
 section#principal {
     background: url(../assets/Background.png);
-    background-position-x: center;
-    background-position-y: unset;
+    background-repeat: round;
+    background-size: 150%;
 }
 
 section#principal h1 {
